@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [scope-hub.PrjPcb]
+   Generated File[Bill of Materials-scope-hub.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 01:06:47 On 11/10/2023

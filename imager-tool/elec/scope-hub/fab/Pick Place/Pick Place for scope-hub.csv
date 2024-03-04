@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+F:\largework\electrical\iris\scope-hub\Project Outputs for scope-hub\Pick Place\Pick Place for scope-hub.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/11/23
+Time:       01:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R6","27, 1%","TopLayer","B_RES0603","-8.0000","-18.7000","0","Resistor"
+"R5","27, 1%","TopLayer","B_RES0603","-8.0000","-16.9000","0","Resistor"
+"R4","27, 1%","TopLayer","B_RES0603","3.0000","-8.7000","180","Resistor"
+"R3","27, 1%","TopLayer","B_RES0603","-0.2000","-8.7000","180","Resistor"
+"R2","27, 1%","TopLayer","B_RES0603","8.0000","-18.7000","180","Resistor"
+"R1","27, 1%","TopLayer","B_RES0603","8.0000","-16.9000","180","Resistor"
+"P7","Male 2.54mm 6x1 header","TopLayer","HDR1X6","-4.3000","-17.4500","270","Header, 6-Pin"
+"P6","Male 2.54mm 6x1 header","TopLayer","HDR1X6","0.0000","-17.4500","270","Header, 6-Pin"
+"P5","Male 2.54mm 6x1 header","TopLayer","HDR1X6","4.3000","-17.4500","270","Header, 6-Pin"
+"P4","Microfit vertical header","TopLayer","MOLEX_0436500217","0.0000","-3.4200","180","Header, 2-Pin"
+"P3","Microfit vertical header","TopLayer","MOLEX_0436500217","0.0000","4.7800","180","Header, 2-Pin"
+"P2","26-pin FPC","TopLayer","HRS_FH34SRJ-26S-0.5SH(50)","-9.2500","0.0000","270","26 Pin FPC header"
+"P1","26-pin FPC","TopLayer","HRS_FH34SRJ-26S-0.5SH(50)","9.2500","0.0000","90","26 Pin FPC header"

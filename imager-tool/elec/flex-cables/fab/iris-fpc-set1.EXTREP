@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: iris-fpc-set1.GBR   11/10/2023  01:13:27
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Board Layer Stack Top Coverlay          
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Board Layer Stack Bottom Coverlay       
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                Mechanical 2                            
+.GM4                Mechanical 4                            
+.GKO                Keep-Out Layer                          
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

@@ -1,0 +1,163 @@
+*************************************************************
+FileName = iris-fpc-set1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : iris-fpc-set1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : iris-fpc-set1.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Board Layer Stack Bottom Coverlay
+      File : iris-fpc-set1.GBS
+
+    Adding Layer      : Board Layer Stack Bottom Coverlay
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : iris-fpc-set1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : iris-fpc-set1.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D11
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : iris-fpc-set1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : iris-fpc-set1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : iris-fpc-set1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : iris-fpc-set1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Board Layer Stack Top Coverlay
+      File : iris-fpc-set1.GTS
+
+    Adding Layer      : Board Layer Stack Top Coverlay
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : iris-fpc-set1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : iris-fpc-set1.GM
+
+
+Used DCodes :
+    D21
+*************************************************************
+

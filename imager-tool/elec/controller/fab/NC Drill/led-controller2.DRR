@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: led-controller2.PcbDoc   11/10/2023  01:00:58
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : led-controller2-RoundHoles.TXT
+ASCII SlotHoles File : led-controller2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             99        PTH        10.21inch (259.32mm)
+T2      16mil (0.4mm)                                             Round             16        PTH        0.52inch (13.25mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.43inch (36.25mm)
+T4      35mil (0.9mm)                                             Round             10        PTH        1.37inch (34.68mm)
+T5      39mil (1mm)                                               Round             3         PTH        0.20inch (5.08mm)
+T6      102mil (2.6mm)                                            Round             2         NPTH       0.51inch (12.93mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              134
+
+Total Processing Time (hh:mm:ss) : 00:00:00

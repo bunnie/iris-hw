@@ -1,3 +1,6 @@
 [submodule "piezo-stage/fw"]
 	path = piezo-stage/fw
 	url = https://github.com/bunnie/iris-focus.git
+[submodule "imager-tool/fw"]
+	path = imager-tool/fw
+	url = https://github.com/bunnie/iris-controller.git
